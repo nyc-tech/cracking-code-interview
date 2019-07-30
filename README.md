@@ -3,7 +3,7 @@
 
 ### Table of Contents
 
-#### Python 
+#### Python Solutions
 
 [Chapter 1 - Arrays and Strings](https://github.com/nyc-tech/cracking-code-interview/tree/master/PythonSolutions/ChapterOne_Arrays_and_Strings)
 
