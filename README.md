@@ -5,6 +5,7 @@ Notes, problems, and solutions
 
 [Python Solutions](https://github.com/nyc-tech/cracking-code-interview/tree/master/PythonSolutions)
 
-1.[Chapter 1](https://github.com/nyc-tech/cracking-code-interview/tree/master/PythonSolutions/ChapterOne_Arrays_and_Strings0
+1.[Chapter 1 - Arrays and Strings](https://github.com/nyc-tech/cracking-code-interview/tree/master/PythonSolutions/ChapterOne_Arrays_and_Strings)
+
 
 
