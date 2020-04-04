@@ -11,5 +11,7 @@
 
 [Chapter 2 - Linked Lists](https://github.com/nyc-tech/cracking-code-interview/tree/master/PythonSolutions/ChapterTwo_LinkedLists)
 
+Mo's problems (https://github.com/nyc-tech/cracking-code-interview/tree/master/solutions)
+
 
 
